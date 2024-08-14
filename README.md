@@ -1,3 +1,9 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaleonhard%2Fmestredosbots_&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/56c16b3d-37d3-498f-849b-1932b37069bb" alt="Descrição da Imagem" width="900" height="auto" />
+</p>
+
 # 🧙‍ Mestre Dos Bots
 
 ## Descrição
@@ -100,6 +106,10 @@ Execute o script principal para iniciar o bot:
 python mestredosbots.py
 
 ```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c83308d9-a2da-4aaf-861f-6d9a913edea6" alt="Descrição da Imagem" width="500" height="auto" />
+</p>
+
 ## Observações
 
 - ⏳ O bot foi configurado para esperar 15 minutos entre cada verificação de novos seguidores, para evitar o limite de taxa da API do Twitter.
